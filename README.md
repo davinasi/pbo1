@@ -1,4 +1,8 @@
 # pbo1
+
+nama  : davina putri izzati gautama
+nim   : 2309116064  
+
 Pada langkah pertama, pengguna akan disajikan beberapa pilihan terkait operasi CRUD (Create, Read, Update, Delete) yang tersedia. Pengguna kemudian dapat memilih fungsi yang ingin dieksekusi berdasarkan kebutuhan spesifik mereka, apakah itu menambah data baru, melihat daftar item yang ada, memperbarui informasi yang sudah ada, atau menghapus data tertentu dari sistem. Pilihan ini memungkinkan pengguna untuk secara fleksibel mengelola data sesuai dengan tujuan mereka di dalam sistem. maka user memilih opsi 1 untuk menambahkan inventaris
 
 ![image](https://github.com/user-attachments/assets/422541f9-9930-4b1f-916d-193d2cde3341)
